@@ -1,9 +1,3 @@
-##### FINAL - Part 2 #####
-##### CSEC-380/480 - Kurt Wickboldt ####
-
-'''
-2) 10 Points: Flask/Jinja/Regex/Logging. See PDF for Instructions.
-'''
 
 from flask import Flask, render_template, request, redirect, url_for
 import re
